@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 You found me on GitHub.
-My name is Haswell.
 
 I am a recent graduate from the University of Melbounre. 
 Ny interest lies in the field of container orchestrator, software architecture and cloud computing.
